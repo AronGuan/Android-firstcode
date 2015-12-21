@@ -1,0 +1,10 @@
+#练习内容  
+activity的生命周期  
+七个回调方法
+onCreate()  
+onStart()
+onResume()
+onPause()
+onStop()
+onDestroy()
+onRestart()
